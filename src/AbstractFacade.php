@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Arctix\Supporting\Facades;
+namespace Arctix\Supporting;
 
 use Illuminate\Support\Facades\Facade as LaravelParentFacade;
 
