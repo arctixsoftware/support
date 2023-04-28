@@ -1,0 +1,13 @@
+# PHPStrom project files
+.idea
+
+# Visual Studio Code project files
+.vs
+.vscode
+
+# Composer vendor dir
+/vendor
+/composer.lock
+
+# Composer itself is not needed
+composer.phar
