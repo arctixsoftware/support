@@ -6,11 +6,11 @@ namespace Arctix\Supporting;
 use Illuminate\Support\ServiceProvider as LaravelParentProvider;
 
 /**
- * AbstractServiceProvider
+ * ServiceProvider
  *
  * @author bu0nq <hello@bu0nq.ru>
  */
-abstract class AbstractServiceProvider extends LaravelParentProvider
+abstract class ServiceProvider extends LaravelParentProvider
 {
 
 }
