@@ -49,4 +49,15 @@ abstract class BootstrapServiceProvider extends ServiceProvider
 
         return $provides;
     }
+
+    /**
+     * @param array $providers
+     */
+    protected function mergeServiceProviders(
+        array $providers
+    ) : void {
+        $this->providers = array_merge(
+            $this->providers, $providers
+        );
+    }
 }
