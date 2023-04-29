@@ -6,11 +6,11 @@ namespace Arctix\Supporting;
 use Illuminate\Support\Facades\Facade as LaravelParentFacade;
 
 /**
- * AbstractFacade
+ * Facade
  *
  * @author bu0nq <hello@bu0nq.ru>
  */
-abstract class AbstractFacade extends LaravelParentFacade
+abstract class Facade extends LaravelParentFacade
 {
 
 }
