@@ -1,12 +1,12 @@
 {
-    "name": "arctixsoftware/supporting",
-    "description": "Supporting package for Arctix Framework.",
+    "name": "arctixsoftware/support",
+    "description": "Support package for Arctix Framework.",
     "keywords": [
         "arctix",
-        "arctix supporting"
+        "arctix support"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/arctixsoftware/supporting",
+    "homepage": "https://github.com/arctixsoftware/support",
     "authors": [
         {
             "name": "bu0nq",
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Arctix\\Supporting\\": "src/"
+            "Arctix\\Support\\": "src/"
         }
     },
     "config": {

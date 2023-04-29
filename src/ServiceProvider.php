@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Arctix\Supporting;
+namespace Arctix\Support;
 
 use Illuminate\Support\ServiceProvider as LaravelParentProvider;
 
