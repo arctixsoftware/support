@@ -4,11 +4,11 @@ declare(strict_types=1);
 namespace Arctix\Support;
 
 /**
- * BootstrapServiceProvider
+ * AggregateServiceProvider
  *
  * @author bu0nq <hello@bu0nq.ru>
  */
-abstract class BootstrapServiceProvider extends ServiceProvider
+abstract class AggregateServiceProvider extends ServiceProvider
 {
     /**
      * @var array
